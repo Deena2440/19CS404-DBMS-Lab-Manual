@@ -338,6 +338,7 @@ WHERE grade = (
 ![image](https://github.com/user-attachments/assets/d16e38c0-ec16-448e-b45b-fbb95ba9cba7)
 
 
+<img width="1008" height="82" alt="image" src="https://github.com/user-attachments/assets/0b3c9980-a9cb-4f1c-b115-44ed74211cac" />
 
 ## RESULT
 Thus, the SQL queries to implement subqueries and views have been executed successfully.
